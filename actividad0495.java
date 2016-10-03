@@ -3,5 +3,6 @@ public class actividad0495{
 	//que muestre tu nombre completo por pantalla.
 	public static void main(String args[]){
 		System.out.println("Carlos Moro Flórez");
+		System.out.println("20");
 	}
 }
